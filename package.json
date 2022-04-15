@@ -1,0 +1,24 @@
+{
+  "name": "puppiter2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaslov-QA/Puppiter2.git"
+  },
+  "author": "Maslov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaslov-QA/Puppiter2/issues"
+  },
+  "homepage": "https://github.com/amaslov-QA/Puppiter2#readme",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.1.0",
+    "puppeteer": "^13.5.2"
+  }
+}

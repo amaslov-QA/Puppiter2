@@ -1,6 +1,5 @@
 const { clickElement, getText } = require("./lib/commands.js");
 const daysWeek = require("./pageTiming.js");
-
 const plases = require("./pageChoiceOfLocation.js");
 
 let page;
